@@ -1,6 +1,6 @@
 # WX-bilibili-Demo
 
-## 久 等 了
+## 声 明 下
 本Demo成品来自B站教程视频,如想看原视频,请移步:https://www.bilibili.com/video/av40455083/
 
 ### 这个项目与其说是项目，不如说是对Vue,Flex容器的复习，更多的是引入别人的接口
